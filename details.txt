@@ -1,0 +1,10 @@
+In this project I have scraped most searched words across India.
+
+Library I have used were-
+pandas for data frame,
+requests for connecting url to machine,
+BeautifulSoup, bs4 that is BeautifulSoup,a Python library for pulling data out of HTML and XML files.
+
+using iteration in codes for grabbing all 'th','tbody' and 'tr' tags to get the values.
+
+Then I define the structure of dataframe using pandas and after storing it, I saved it to the csv file. 
